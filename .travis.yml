@@ -3,3 +3,14 @@ language: node_js
 node_js:
   - 'stable'
   - '8'
+before_deploy:
+  - npm i semver
+  - npm version --no-git-tag-version --force $(./node_modules/.bin/semver -i minor $(npm info vbb-change-positions version))
+deploy:
+  provider: npm
+  on:
+    branch: master
+    node: '8'
+  email: 'mail@juliustens.de'
+  api_key: ${NPM_KEY}
+  skip_cleanup: true
