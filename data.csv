@@ -48,20 +48,6 @@ station,stationName,fromLine,fromStation,fromStationName,fromTrack,fromPosition,
 900000058101,Südkreuz,S25,900000058108,Yorckstr.,,0.5,S45,900000068201,Tempelhof,,0.3,false
 900000058101,Südkreuz,S2,900000058108,Yorckstr.,,0.5,S46,900000068201,Tempelhof,,0.3,false
 900000058101,Südkreuz,S25,900000058108,Yorckstr.,,0.5,S46,900000068201,Tempelhof,,0.3,false
-900000079221,Hermannstr.,S42,900000068201,Tempelhof,,0.5,U8,900000079201,Leinestr.,,0.4,false
-900000079221,Hermannstr.,S45,900000068201,Tempelhof,,0.5,U8,900000079201,Leinestr.,,0.4,false
-900000079221,Hermannstr.,S46,900000068201,Tempelhof,,0.5,U8,900000079201,Leinestr.,,0.4,false
-900000079221,Hermannstr.,S41,900000078201,Neukölln,,0.5,U8,900000079201,Leinestr.,,0.4,false
-900000079221,Hermannstr.,S45,900000068201,Tempelhof,,0.5,U8,900000079201,Leinestr.,,0.4,false
-900000079221,Hermannstr.,S46,900000068201,Tempelhof,,0.5,U8,900000079201,Leinestr.,,0.4,false
-900000079221,Hermannstr.,S47,900000068201,Tempelhof,,0.5,U8,900000079201,Leinestr.,,0.4,false
-900000079221,Hermannstr.,U8,900000079201,Leinestr.,,0.6,S42,900000068201,Tempelhof,,0.5,false
-900000079221,Hermannstr.,U8,900000079201,Leinestr.,,0.6,S45,900000068201,Tempelhof,,0.5,false
-900000079221,Hermannstr.,U8,900000079201,Leinestr.,,0.6,S46,900000068201,Tempelhof,,0.5,false
-900000079221,Hermannstr.,U8,900000079201,Leinestr.,,0.6,S41,900000078201,Neukölln,,0.5,false
-900000079221,Hermannstr.,U8,900000079201,Leinestr.,,0.6,S45,900000068201,Tempelhof,,0.5,false
-900000079221,Hermannstr.,U8,900000079201,Leinestr.,,0.6,S46,900000068201,Tempelhof,,0.5,false
-900000079221,Hermannstr.,U8,900000079201,Leinestr.,,0.6,S47,900000068201,Tempelhof,,0.5,false
 900000024106,Messe Nord/ICC,S42,900000026207,Westend,,0,U2,900000026201,Theodor-Heuss-Platz,,0,false
 900000024106,Messe Nord/ICC,S41,900000024102,Westkreuz,,1,U2,900000026201,Theodor-Heuss-Platz,,0,false
 900000024106,Messe Nord/ICC,S46,900000026207,Westend,,0,U2,900000026201,Theodor-Heuss-Platz,,0,false
